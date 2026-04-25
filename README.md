@@ -1,0 +1,2 @@
+# cronbachAlpha
+cronbach alpha calculator
