@@ -1,2 +1,2 @@
-# cronbachAlpha
-cronbach alpha calculator
+# mean_calculator
+Mean Calculator for Surveys results
